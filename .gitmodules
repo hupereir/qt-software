@@ -1,0 +1,48 @@
+[submodule "condorwatch"]
+	path = condorwatch
+	url = git@github.com:hupereir/condorwatch
+[submodule "elogbook"]
+	path = elogbook
+	url = git@github.com:hupereir/elogbook
+[submodule "graphscan"]
+	path = graphscan
+	url = git@github.com:hupereir/graphscan
+[submodule "gridwatch"]
+	path = gridwatch
+	url = git@github.com:hupereir/gridwatch
+[submodule "homechat"]
+	path = homechat
+	url = git@github.com:hupereir/homechat
+[submodule "musicbox"]
+	path = musicbox
+	url = git@github.com:hupereir/musicbox
+[submodule "qedit"]
+	path = qedit
+	url = git@github.com:hupereir/qedit
+[submodule "qftp"]
+	path = qftp
+	url = git@github.com:hupereir/qftp
+[submodule "qssh"]
+	path = qssh
+	url = git@github.com:hupereir/qssh
+[submodule "qtop"]
+	path = qtop
+	url = git@github.com:hupereir/qtop
+[submodule "serverlog"]
+	path = serverlog
+	url = git@github.com:hupereir/serverlog
+[submodule "shared-libraries"]
+	path = shared-libraries
+	url = git@github.com:hupereir/shared-libraries
+[submodule "taskbar"]
+	path = taskbar
+	url = git@github.com:hupereir/taskbar
+[submodule "transparency"]
+	path = transparency
+	url = git@github.com:hupereir/transparency
+[submodule "xgrabcolor"]
+	path = xgrabcolor
+	url = git@github.com:hupereir/xgrabcolor
+[submodule "xgrabwindow"]
+	path = xgrabwindow
+	url = git@github.com:hupereir/xgrabwindow
