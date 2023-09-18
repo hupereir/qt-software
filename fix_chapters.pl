@@ -4,7 +4,7 @@
     {
         chop( $directory );
         my $archive = $directory.'.cbz';
-        my $command = "zip -r '$archive' '$directory'";
+        my $command = "zip -9 -r '$archive' '$directory'";
         system( $command );
         
         $command = "rm -r '$directory'";
