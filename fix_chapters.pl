@@ -4,10 +4,10 @@
     {
         chop( $directory );
         my $archive = $directory.'.cbz';
-        my $command = "zip -9 -r '$archive' '$directory'";
+        my $command = "zip -9 -r \"$archive\" \"$directory\"";
         system( $command );
         
-        $command = "rm -r '$directory'";
+        $command = "rm -r \"$directory\"";
         system( $command );
     }
 }
