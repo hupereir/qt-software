@@ -46,3 +46,6 @@
 [submodule "xgrabwindow"]
 	path = xgrabwindow
 	url = git@github.com:hupereir/xgrabwindow
+[submodule "textool"]
+	path = textool
+	url = git@github.com:hupereir/textool
